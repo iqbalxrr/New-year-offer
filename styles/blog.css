@@ -18,7 +18,7 @@ body{
     justify-content: center;
     color: white;
     border-radius: 16px;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('/styles/images/Banner\ Image.png') ;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('./styles/images/Banner\ Image.png') ;
 }
 
 .header-content {
@@ -100,7 +100,7 @@ margin-top: 0px;
     justify-content: space-between;
     color: white;
     border-radius: 16px;
-    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('/styles/images/Vectorrr.png') ;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('./styles/images/Vectorrr.png') ;
 
    
 }
@@ -227,7 +227,7 @@ margin-top: 0px;
 
     height: 600px;
     display: flex;
-     background-image: url('/styles/images/Rectangle\ 2.png');
+     background-image: url('./styles/images/Rectangle\ 2.png');
      background-repeat: no-repeat;
      background-position: bottom;
      justify-content: space-between;
